@@ -1,0 +1,30 @@
+#toplevel_page_smwc_plugins .wp-menu-image img{padding:7px 0 0;}
+.wpa-settings-main *{-webkit-box-sizing:border-box;box-sizing:border-box;}
+.wpa-settings-main{padding:25px 20px 25px 0;}
+.wpa-settings-main h2{font-size:22px;line-height:normal;margin:0 0 22px;}
+.wpa-settings-main p{margin:0 0 10px;font-size:15px;line-height:normal;}
+.wpa-settings-main table.form-table{width:100%;border-collapse:collapse;margin-top:0;}
+.wpa-settings-main table.form-table tr th{font-weight:600;width:16%;position:relative;}
+.wpa-settings-main table.form-table tr td,.wpa-settings-main table.form-table tr th{font-size:13px!important;color:#333;line-height:20px;vertical-align:middle;padding:10px;}
+.wpa-settings-main table.form-table tr td ul{margin:0;}
+.wpa-settings-main table.form-table tr td a{color:#0073aa;}
+.wpa-settings-main table.form-table tr td a:hover{color:#0096dd;}
+.wpa-settings-main table.form-table tr td a.gb{background:#5cb85c;border:1px solid #4cae4c;margin-right:10px;color:#fff;font-size:14px;padding:7px 12px;}
+.wpa-settings-main table.form-table tr td a.gb:hover{background:#449d44;border:1px solid #398439;color:#fff;}
+.wpa-settings-main table.form-table tr td a.cb{display:inline-block;background:#d9534f;color:#fff;font-size:14px;border:1px solid #d43f3a;padding:6px 12px;}
+.wpa-settings-main table.form-table tr td a.cb:hover{background:#ac2925;border:1px solid #c9302c;color:#fff;}
+.wpa-settings-main table.form-table tr td select,.wpa-settings-main table.form-table tr td textarea,.wpa-settings-main table.form-table tr td input:not(input[type="checkbox"]){min-width:40%;padding:5px 10px;vertical-align:middle;}
+.wpa-settings-main .nav-tab-wrapper{margin:25px 0 10px;}
+.wpa-settings-main .wpa_tooltip_icon{background-image:url("../images/help.png");background-size:16px auto;display:inline-block;height:17px;vertical-align:middle;width:16px;margin:0 0 0 5px;cursor:pointer;}
+.wpa-settings-main .wpa-woocommerce-help-tip{display:none;}
+.wpa-settings-main .wpa_toggle_switch{position:relative;display:inline-block;width:60px;height:30px;}
+.wpa-settings-main .wpa_toggle_switch .wpa_toggle_btn{position:absolute;cursor:pointer;top:0;left:0;right:0;bottom:0;background-color:#ccc;-webkit-transition:.4s;-o-transition:.4s;transition:.4s;border-radius:34px;}
+.wpa-settings-main .wpa_toggle_switch .wpa_toggle_btn::before{position:absolute;content:"";height:24px;width:24px;left:6px;bottom:3px;background-color:white;-webkit-transition:.4s;-o-transition:.4s;transition:.4s;border-radius:50%;}
+.wpa-settings-main .wpa_toggle_switch input[type="checkbox"]{opacity:0;width:0;height:0;}
+.wpa-settings-main .wpa_toggle_switch input[type="checkbox"]:checked + .wpa_toggle_btn{background-color:#2196F3;}
+.wpa-settings-main .wpa_toggle_switch input[type="checkbox"]:checked + .wpa_toggle_btn::before{-webkit-transform:translateX(26px);-ms-transform:translateX(26px);transform:translateX(26px);}
+.wpa-settings-main .wpa-save-button{margin:18px 0 0 8px;display:-webkit-box;display:-ms-flexbox;display:flex;width:100%;}
+.wpa-settings-main .wpa-loader{position:relative;display:none;}
+.wpa-settings-main .wpa-loader::before{content:'';background-image:url("../images/ajax-loader.gif");width:18px;height:18px;display:inline-block;position:absolute;top:50%;right:-24px;background-size:cover;background-repeat:no-repeat;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);}
+.wpa-settings-main .wpa_filter_shortcode{color:#000;}
+.wpa-settings-main .wpa-note p{padding:10px 0 5px 10px;font-size:15px;}

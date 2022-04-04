@@ -1,0 +1,104 @@
+# Copyright (C) 2022 Sahil Multani
+# This file is distributed under the same license as the Advanced Product Author for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Product Author for WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://www.multidots.com/contact/\n"
+"POT-Creation-Date: 2022-03-31 19:03+0530\n"
+"PO-Revision-Date: 2022-03-31 19:05+0530\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Loco-Version: 2.5.8; wp-5.9.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-product-author-for-woocommerce-admin.php:111
+msgid "WC Plugins"
+msgstr ""
+
+#: admin/class-product-author-for-woocommerce-admin.php:122
+msgid "Product Author for WooCommerce"
+msgstr ""
+
+#: admin/class-product-author-for-woocommerce-admin.php:148
+#, php-format
+msgid ""
+"If you like <strong>Advanced Product Author for WooCommerce</strong> plugin, "
+"please leave us ★★★★★ ratings on <a href=\"%1$s\" target=\"_blank\">WP.org</"
+"a>."
+msgstr ""
+
+#: admin/class-product-author-for-woocommerce-admin.php:216
+msgid "General Settings"
+msgstr ""
+
+#: admin/partials/wpa-admin-settings-page.php:8
+#: advanced-product-author-for-woocommerce.php:112
+msgid "Advanced Product Author for WooCommerce"
+msgstr ""
+
+#: admin/partials/wpa-admin-settings-page.php:24
+msgid "Status"
+msgstr ""
+
+#: admin/partials/wpa-admin-settings-page.php:35
+msgid "Enable or Disable author selection settings using this button."
+msgstr ""
+
+#: admin/partials/wpa-admin-settings-page.php:42
+msgid "Select Users"
+msgstr ""
+
+#: admin/partials/wpa-admin-settings-page.php:46
+msgid "Select a User"
+msgstr ""
+
+#: admin/partials/wpa-admin-settings-page.php:63
+msgid "Select users if you want current user based author selection settings."
+msgstr ""
+
+#: admin/partials/wpa-admin-settings-page.php:70
+msgid "Select User Roles"
+msgstr ""
+
+#: admin/partials/wpa-admin-settings-page.php:73
+msgid "Select a User Role"
+msgstr ""
+
+#: admin/partials/wpa-admin-settings-page.php:91
+msgid ""
+"Select user roles if you want current user role based author selection "
+"settings."
+msgstr ""
+
+#: admin/partials/wpa-admin-settings-page.php:99
+msgid "Save Changes"
+msgstr ""
+
+#: advanced-product-author-for-woocommerce.php:113
+msgid "WooCommerce"
+msgstr ""
+
+#: advanced-product-author-for-woocommerce.php:118
+#, php-format
+msgid "%1$s requires %2$s to be installed & activated!"
+msgstr ""
+
+#: includes/class-product-author-for-woocommerce.php:137
+msgid "Settings"
+msgstr ""
+
+#: includes/class-product-author-for-woocommerce.php:138
+msgid "Support"
+msgstr ""

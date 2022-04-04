@@ -40,13 +40,13 @@ If you are running a WooCommerce store that carries multiple authors and wants t
 == 💁 Contact Us or Submit Support Ticket ==
 
 <ul>
-<li><strong>Plugin:</strong> Need Technical Help? - <a href="https://wordpress.org/support/plugin/woo-product-author/">Click here</a></li>
+<li><strong>Plugin:</strong> Need Technical Help? - <a href="https://wordpress.org/support/plugin/advanced-product-author-for-woocommerce/">Click here</a></li>
 </ul>
 
 == Installation ==
 
 * Download the plugin
-* Upload the folder "woo-product-author" to wp-content/plugins (or upload a zip through the Wordpress admin)
+* Upload the folder "advanced-product-author-for-woocommerce" to wp-content/plugins (or upload a zip through the Wordpress admin)
 * Activate and enjoy!
 
 == Frequently Asked Questions ==
